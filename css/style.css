@@ -1,0 +1,253 @@
+@font-face {
+  font-family: Yuan;
+  src: url("../font/GenJyuuGothic-Normal.ttf");
+}
+.JH-Super-Market
+{
+  width: 491px;
+  height: 63px;
+  font-family: Yuan;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: left;
+  color: #000000;
+  margin-left:238px;
+  margin-top:25px;
+  float: left;
+}
+.icon-1
+{
+  width:51px;
+  height: 51px;
+  margin-left:333px;
+  margin-top:31px;
+  float: left;
+}
+.icon-1:hover
+{
+  opacity:0.4;
+}
+.icon-2
+{
+  width:67px;
+  height: 67px;
+  margin-left:20px;
+  margin-top:25px;
+  float: left;
+}
+.icon-2:hover
+{
+  opacity:0.4;
+}
+.icon-3
+{
+  width:62px;
+  height: 62px;
+  margin-left:20px;
+  margin-top:27px;
+  float: left;
+}
+.icon-3:hover
+{
+  opacity:0.4;
+}
+.main-photo
+{
+  width: 1044px;
+  height: 500px;
+  margin-top:25px;
+  margin-left:238px;
+  float: left;
+  clear:both;
+}
+.main-photo:hover
+{
+  opacity:0.9;
+}
+.bar
+{
+ width: 1038px;
+ height: 61px;
+ border: solid 3px #000000;
+ float: left;
+ clear:both;
+ margin-top: 9px;
+ margin-left:238px;
+}
+.blank
+{
+  margin-left:238px;
+  margin-top:28px;
+  float: left;
+  clear:both;
+}
+.contact-us
+{
+  width: 494px;
+  height: 91px;
+  float: right;
+  margin-left:26px;
+}
+#choice-1
+{
+ width: 150px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:795px;
+ top:850px;
+}
+#choice-1:hover
+{
+  font-weight: bold;
+}
+#choice-2
+{
+ width: 150px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:795px;
+ top:925px;
+}
+#choice-2:hover
+{
+  font-weight: bold;
+}
+#choice-3
+{
+ width: 150px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:795px;
+ top:1000px;
+}
+#choice-3:hover
+{
+  font-weight: bold;
+}
+#option-1
+{
+ width: 150px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:284px;
+ top:644px;
+}
+#option-1:hover
+{
+  font-weight: bold;
+}
+#option-2
+{
+ width: 300px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:499px;
+ top:644px;
+}
+#option-2:hover
+{
+  font-weight: bold;
+}
+#option-3
+{
+ width: 300px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:689px;
+ top:644px;
+}
+#option-3:hover
+{
+  font-weight: bold;
+}
+#option-4
+{
+ width: 300px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:809px;
+ top:644px;
+}
+#option-4:hover
+{
+  font-weight: bold;
+}
+#option-5
+{
+ width: 300px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:974px;
+ top:644px;
+}
+#option-5:hover
+{
+  font-weight: bold;
+}
+#option-6
+{
+ width: 300px;
+ height: 132px;
+ font-family:Yuan;
+ font-size: 30px;
+ text-align: left;
+ position:absolute;
+ left:1099px;
+ top:644px;
+}
+#option-6:hover
+{
+  font-weight: bold;
+}
+.Quick-Start
+ {
+  width: 420px;
+  height: 150px;
+  font-family: Yuan;
+  font-size: 60px;
+  text-align: left;
+  float:left;
+  clear:both;
+  margin-top:59px;
+  margin-left:615px;
+  color: #000000;
+}
+.Quick-Start img
+{
+  width:74px;
+  height:74px;
+  position: absolute;
+  left:948px;
+  top:1097px;
+  visibility: hidden;
+}
+.Quick-Start:hover
+{
+  font-weight: bold;
+  color:red;
+}
+.Quick-Start:hover img {visibility: visible;}
